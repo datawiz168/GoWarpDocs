@@ -1,7 +1,7 @@
 GoWarpDocs
 
 GoWarpDocs 是一个使用 Golang 编写的高性能 NoSQL 文档数据库，结合了 WiredTiger 存储引擎，提供了极致速度和灵活性。
-特点
+    特点
 
     高性能: 利用 Golang 的强大并发能力，提供了卓越的读写速度。
     灵活性: 作为文档数据库，GoWarpDocs 支持复杂和多变的数据结构。
